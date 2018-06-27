@@ -2,10 +2,9 @@
 There are two separate Eclipse based maven projects.
 1. PortalTestFramework
 2. PublicPortalTests
-the draft test plan
 3. Draft Test Plan.docx
-and the test execution screen cast
-4. PageFreezer_PubPortal_TestExecution.mp4
+and 
+4. PageFreezer_PubPortal_TestExecution.mp4  the test execution screen cast
 
 Please download as you see fit.
 
