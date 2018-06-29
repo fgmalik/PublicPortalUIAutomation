@@ -1,5 +1,5 @@
 # PublicPortalUIAutomation
-There are two separate Eclipse based maven projects.
+Following files are included:
 1. PortalTestFramework
 2. PublicPortalTests
 3. Draft Test Plan.docx
